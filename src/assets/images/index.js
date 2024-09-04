@@ -8,7 +8,7 @@ import customer2 from './customer2.svg'
 import footerLogo from './footer-logo.svg'
 import headerLogo from './header-logo3.png'
 
-import offer from './0ffer.jpeg'
+import offer from './offer.jpeg'
 
 import shoe4 from './shoe4.svg'
 import shoe5 from './shoe5.svg'
