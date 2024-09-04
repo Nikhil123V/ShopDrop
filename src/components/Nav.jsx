@@ -8,7 +8,7 @@ const Nav = () => {
             
             <img 
             className=' shadow-sm shadow-coral-red ' 
-            src='/src/assets/images/header-logo3.png'
+            src='/logo.png'
             alt='logo'
             width={100}
             height={29}
